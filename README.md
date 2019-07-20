@@ -9,4 +9,4 @@ Task for this project is to find shortest path from route 5 to route 34
 
 
 below shown is the shortest path from route 5 to route 34
-![](shortes_path.gif)
+![](shortest_path.gif)
