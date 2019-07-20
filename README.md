@@ -7,6 +7,10 @@ full map is shown below:
 
 Task for this project is to find shortest path from route 5 to route 34
 
+For every 
 
-below shown is the shortest path from route 5 to route 34
+
+Below shown is the shortest path from route 5 to route 34
+
+
 ![](shortest_path.gif)
